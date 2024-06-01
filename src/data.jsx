@@ -84,10 +84,10 @@ export const projects=[
   {
     id:3 ,
     img: ecommerce ,
-    title:"e-commerce" ,
-    liveDemo:"https://ecommerce-5kq2.onrender.com/" ,
-    repoUrl:"https://github.com/hagerElroby/ecommerce-with-fake-api" ,
-    description:"A React-based online shopping platform by using React, styled-components , Redux, Redux Persist , Axios and fake api"
+    title:"Mern e-commerce" ,
+    liveDemo:"https://mern-ecommerce-2y8w.onrender.com/" ,
+    repoUrl:"https://github.com/hagerElroby/mern-ecommerce" ,
+    description:"A Mern Stack online shopping platform by using React, styled-components, Redux-toolkit, Redux Persist, MUI-icons, Axios, restApi, nodejs, express and mongoDB"
   } ,
   {
     id:4 ,
